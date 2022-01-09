@@ -2,7 +2,7 @@
     package="com.example.fatema_1">
    <application
        android:requestLegacyExternalStorage="true"
-        android:label="fatema_1"
+        android:label="Store Food"
        android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
